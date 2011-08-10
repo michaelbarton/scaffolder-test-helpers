@@ -23,7 +23,7 @@ Jeweler::Tasks.new do |gem|
   gem.license = "MIT"
   gem.summary = %Q{Methods and classes for testing scaffolder.}
   gem.description = %Q{Useful Helper methods and classes for testing scaffolder.}
-  gem.email = "mail@michaelbarton.me.uk"
+  gem.email = "mail@next.gs"
   gem.authors = ["Michael Barton"]
   gem.test_files = Dir['spec/**/*.rb']
 end
